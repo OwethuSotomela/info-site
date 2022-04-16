@@ -5,7 +5,7 @@ import React from "react";
 export default function Footer() {
     return (
         <div>
-            <h5>© Info-Site 2022 <small>O Sotomela</small> development. All rights reserved.</h5>
+            © <small>Info-Site (2022) O Sotomela development. All rights reserved.</small>
         </div>
     )
 }
