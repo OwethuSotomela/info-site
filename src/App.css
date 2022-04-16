@@ -39,6 +39,10 @@
 
 /* Sat */
 
+.navbar{
+  display: flex;
+}
 .nav-items{
   list-style: none;
+  display: flex;
 }
