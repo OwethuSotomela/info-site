@@ -4,7 +4,7 @@ import React from "react";
 export default function Page(){
     return(
         <div>
-            <img src="./"alt="" />
+            <img src="../public/logo192.png" alt="" />
             <h1>Fun facts about React</h1>
             <ul>
                 <li>Was first released in 2013</li>
