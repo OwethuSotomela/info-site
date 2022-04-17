@@ -1,6 +1,4 @@
 import React from "react";
-// import ReactDOM from "react-dom";
-// import ""
 
 import MainContent from "./components/MainContent";
 import Footer from "./components/Footer";
